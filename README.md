@@ -32,7 +32,7 @@ Este trabalho é protegido por direitos autorais. O código, documentação e re
 
 ### Restrições de Uso
 
-⚠️ **IMPORTANTE:** Qualquer uso, reprodução, distribuição ou modificação deste material sem a devida autorização e creditação apropriada constitui violação dos direitos autorais e está sujeito às penalidades previstas na legislação vigente.
+⚠️ **IMPORTANTE:** Este repositório é mantido como registro acadêmico e profissional. Qualquer uso, reprodução, distribuição ou modificação deste material sem a devida autorização e creditação apropriada ou a apropriação indevida do conteúdo constitui violação dos direitos autorais e está sujeito às penalidades previstas na legislação vigente.
 
 ### Uso Permitido
 
